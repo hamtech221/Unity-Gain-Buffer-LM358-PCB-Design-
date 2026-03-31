@@ -28,3 +28,9 @@ Designed a 2-layer PCB using LM358 for signal buffering and LED indication.
 - Schematic
 - PCB Layout
 - Project files
+
+
+## How to Use
+1. Open project files in Altium Designer
+2. Review schematic and PCB layout
+3. Modify as needed for your application
