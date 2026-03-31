@@ -14,7 +14,15 @@ Designed a 2-layer PCB using LM358 for signal buffering and LED indication.
 - Altium Designer
 
 ## Images
-(add PCB screenshots)
+
+### PCB Layout
+![PCB](images/2D_View.png)
+
+### 3D View
+![3D](images/3D_View.png)
+
+### Schematic
+![Schematic](images/schematic.png)
 
 ## Files
 - Schematic
